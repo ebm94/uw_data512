@@ -1,0 +1,1 @@
+This analysis is used to measure bias in English wikipedia articles per population and article quality. The wiipedia page data has ingformtion on page, revision_ID and country. We use an additional population data to attache population information fro different countries as well as regions.
